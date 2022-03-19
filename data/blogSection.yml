@@ -1,0 +1,9 @@
+---
+enable: true
+topTitle: Blog
+title: >
+  ## Recent Articles
+
+  Check out what is happening.
+
+buttonTarget: blog

@@ -1,0 +1,10 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About Wolf Suite
+content: >
+  ### Building Useful Utility Bots
+  
+  The Wolf Suite offers a selection of different Discord bots to fit your needs. From the basics such as logging messages to the entertainment of your members, the Wolf Suite has what you need.
+image: images/about/code.jpg

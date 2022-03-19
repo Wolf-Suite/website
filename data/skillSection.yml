@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Backend 
+content: >
+  ## What's running these bots?
+  
+  All of the Wolf Suite Discord Bots are running from the powerful Node.JS language. We ensure that they stay online as much as possible by self-hosting them.
+image: images/skill/nodejs-logo.png
+
+skill:
+  - title: Uptime
+    percent: 99
