@@ -1,7 +1,7 @@
 ---
 title: "WolfieCBOT ESR End of Life"
 date: 2022-04-02T18:55:26-05:00
-featureImage: images/single-blog/wolfiecbot-esr-eol-2.png
+featureImage: images/single-blog/wolfiecbot-esr-eol-thumb.png
 postImage: images/single-blog/wolfiecbot-esr-eol.png
 tags: Announcement
 categories: blog

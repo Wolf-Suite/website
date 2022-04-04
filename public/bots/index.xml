@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bots on Wolf Suite</title>
+    <link>https://wolf-suite.web.app/bots/</link>
+    <description>Recent content in Bots on Wolf Suite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://wolf-suite.web.app/bots/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wolf Tags</title>
+      <link>https://wolf-suite.web.app/bots/wolf-tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wolf-suite.web.app/bots/wolf-tags/</guid>
+      <description>Storing your information has never been easier. With Wolf Tags, you can store your information bits with ease. Simply use the /createtag command.
+Made a mistake? Change it. With the /edittag command, you never have to worry about messing up your information. Be assured that only you can modify your tags.
+Made too many tags? Delete them. With the /deletetag command, you can easily remove any tag you own. You can also delete them as long as you can Manage Messages, making moderation a breeze.</description>
+    </item>
+    
+  </channel>
+</rss>

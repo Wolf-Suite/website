@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcement on Wolf Suite</title>
+    <link>https://wolf-suite.web.app/tags/announcement/</link>
+    <description>Recent content in Announcement on Wolf Suite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Apr 2022 18:55:26 -0500</lastBuildDate><atom:link href="https://wolf-suite.web.app/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WolfieCBOT ESR End of Life</title>
+      <link>https://wolf-suite.web.app/blog/wolfiecbot-esr-eol/</link>
+      <pubDate>Sat, 02 Apr 2022 18:55:26 -0500</pubDate>
+      
+      <guid>https://wolf-suite.web.app/blog/wolfiecbot-esr-eol/</guid>
+      <description>For those who did not know already, WolfieCBOT ESR will be shutting down on April 30th, 2022.
+FAQ Why are you shutting WolfieCBOT ESR down?  WolfieCBOT ESR is not used in many servers. There are security issues with WolfieCBOT ESR that are unpatchable without completely rewriting the bot. Many of the features of WolfieCBOT ESR are locked down (ex: Moderation, Tags, etc.). Many of the features of WolfieCBOT ESR are being replicated with other Wolf Suite bots.</description>
+    </item>
+    
+  </channel>
+</rss>
