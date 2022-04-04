@@ -6,7 +6,19 @@
     <description>Recent content on Wolf Suite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Apr 2022 18:55:26 -0500</lastBuildDate><atom:link href="https://wolf-suite.web.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Apr 2022 19:08:19 -0500</lastBuildDate><atom:link href="https://wolf-suite.web.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wolf Tags 1.1.0 Update</title>
+      <link>https://wolf-suite.web.app/blog/wolf-tags-1.1.0/</link>
+      <pubDate>Sun, 03 Apr 2022 19:08:19 -0500</pubDate>
+      
+      <guid>https://wolf-suite.web.app/blog/wolf-tags-1.1.0/</guid>
+      <description>Wolf Tags has received a small update bringing one new feature and a bug fix.
+Note: These features may take up to an hour to appear in your server. This is due to the nature of Discord slash commands. Please be patient.
+&amp;ldquo;previewtag&amp;rdquo; Command Now, you can use the /previewtag command to view a tag&amp;rsquo;s contents without showing the entire server. Just use the command like the /tag command.
+Activity is No Longer Shown Instead of using an activity (ex: &amp;ldquo;Playing (random website)&amp;quot;), Wolf Tags will now use the description for linking to the bot website.</description>
+    </item>
+    
     <item>
       <title>WolfieCBOT ESR End of Life</title>
       <link>https://wolf-suite.web.app/blog/wolfiecbot-esr-eol/</link>
