@@ -6,11 +6,15 @@
     <description>Recent content in Tags on Wolf Suite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Apr 2022 19:08:19 -0500</lastBuildDate><atom:link href="https://wolf-suite.web.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jul 2022 00:23:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://wolf-suite.web.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Updates</title>
       <link>https://wolf-suite.web.app/tags/updates/</link>
-      <pubDate>Sun, 03 Apr 2022 19:08:19 -0500</pubDate>
+      <pubDate>Fri, 22 Jul 2022 00:23:00 -0500</pubDate>
       
       <guid>https://wolf-suite.web.app/tags/updates/</guid>
       <description></description>

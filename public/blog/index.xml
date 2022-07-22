@@ -6,7 +6,24 @@
     <description>Recent content in Recents Article on Wolf Suite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Apr 2022 19:08:19 -0500</lastBuildDate><atom:link href="https://wolf-suite.web.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jul 2022 00:23:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://wolf-suite.web.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wolf Tags 1.2.0 Update</title>
+      <link>https://wolf-suite.web.app/blog/wolf-tags-1.2.0/</link>
+      <pubDate>Fri, 22 Jul 2022 00:23:00 -0500</pubDate>
+      
+      <guid>https://wolf-suite.web.app/blog/wolf-tags-1.2.0/</guid>
+      <description>Wolf Tags has received an update!
+Note: These features may take up to an hour to appear in your server. Please be patient while Discord updates the commands.
+Tag Command Mentions Users Now, you can use the /tag command to mention a user with a tag. Very useful for those who don&amp;rsquo;t read.
+Taginfo Content Can be Copied The /taginfo command now uses backticks to allow for easy copying.
+Boring Developer Stuff  README file on GitHub repository now shows installation instructions, along with license information and a prettier image.</description>
+    </item>
+    
     <item>
       <title>Wolf Tags 1.1.0 Update</title>
       <link>https://wolf-suite.web.app/blog/wolf-tags-1.1.0/</link>
