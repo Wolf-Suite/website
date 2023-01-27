@@ -1,88 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://wolf-suite.web.app/categories/blog/</loc>
-    <lastmod>2022-07-22T03:50:00-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-01-26T03:50:00-05:00</lastmod>
+  </url><url>
     <loc>https://wolf-suite.web.app/categories/</loc>
-    <lastmod>2022-07-22T03:50:00-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-01-26T03:50:00-05:00</lastmod>
+  </url><url>
     <loc>https://wolf-suite.web.app/blog/</loc>
-    <lastmod>2022-07-22T03:50:00-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-01-26T03:50:00-05:00</lastmod>
+  </url><url>
     <loc>https://wolf-suite.web.app/tags/</loc>
-    <lastmod>2022-07-22T03:50:00-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-01-26T03:50:00-05:00</lastmod>
+  </url><url>
     <loc>https://wolf-suite.web.app/tags/updates/</loc>
-    <lastmod>2022-07-22T03:50:00-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-01-26T03:50:00-05:00</lastmod>
+  </url><url>
     <loc>https://wolf-suite.web.app/</loc>
-    <lastmod>2022-07-22T03:50:00-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-01-26T03:50:00-05:00</lastmod>
+  </url><url>
+    <loc>https://wolf-suite.web.app/blog/wolf-tags-2.0.0/</loc>
+    <lastmod>2023-01-26T03:50:00-05:00</lastmod>
+  </url><url>
     <loc>https://wolf-suite.web.app/blog/wolf-tags-1.3.0/</loc>
     <lastmod>2022-07-22T03:50:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wolf-suite.web.app/blog/wolf-tags-1.2.0/</loc>
     <lastmod>2022-07-22T00:23:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wolf-suite.web.app/blog/wolf-tags-1.1.0/</loc>
     <lastmod>2022-04-03T19:08:19-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wolf-suite.web.app/tags/announcement/</loc>
     <lastmod>2022-04-02T18:55:26-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wolf-suite.web.app/blog/wolfiecbot-esr-eol/</loc>
     <lastmod>2022-04-02T18:55:26-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wolf-suite.web.app/blog/new-site/</loc>
     <lastmod>2022-03-18T23:36:03-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wolf-suite.web.app/tags/website/</loc>
     <lastmod>2022-03-18T23:36:03-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wolf-suite.web.app/privacy-policy/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wolf-suite.web.app/tos/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wolf-suite.web.app/bots/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wolf-suite.web.app/bots/wolf-tags/</loc>
   </url>
-  
 </urlset>

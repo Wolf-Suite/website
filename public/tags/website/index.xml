@@ -6,11 +6,7 @@
     <description>Recent content in website on Wolf Suite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Mar 2022 23:36:03 -0500</lastBuildDate>
-    
-	<atom:link href="https://wolf-suite.web.app/tags/website/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 18 Mar 2022 23:36:03 -0500</lastBuildDate><atom:link href="https://wolf-suite.web.app/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Site</title>
       <link>https://wolf-suite.web.app/blog/new-site/</link>

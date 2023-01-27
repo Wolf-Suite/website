@@ -6,10 +6,17 @@
     <description>Recent content in Updates on Wolf Suite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jul 2022 03:50:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://wolf-suite.web.app/tags/updates/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 26 Jan 2023 03:50:00 -0500</lastBuildDate><atom:link href="https://wolf-suite.web.app/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wolf Tags 2.0.0 Update</title>
+      <link>https://wolf-suite.web.app/blog/wolf-tags-2.0.0/</link>
+      <pubDate>Thu, 26 Jan 2023 03:50:00 -0500</pubDate>
+      
+      <guid>https://wolf-suite.web.app/blog/wolf-tags-2.0.0/</guid>
+      <description>Wolf Tags has received an update!
+This update is more of a backend update. This is important for developers looking to use Wolf Tags.
+Dependencies Updated  Discord.JS has been updated from 13.9.0 to 14.7.1. Sapphire Framework has been updated from 3.0.0-next.72b48bb.0 to 4.0.2 Sapphire Plugin Logger has been updated from 2.1.3 to 3.0.1 Dotenv has been updated from 16.0.1 to 16.0.3 Firebase-Admin has been updated from 11.0.0 to 11.5.0 UUID has been updated from 8.</description>
+    </item>
     
     <item>
       <title>Wolf Tags 1.3.0 Update</title>
@@ -45,7 +52,7 @@ Boring Developer Stuff  README file on GitHub repository now shows installation 
       <description>Wolf Tags has received a small update bringing one new feature and a bug fix.
 Note: These features may take up to an hour to appear in your server. This is due to the nature of Discord slash commands. Please be patient.
 &amp;ldquo;previewtag&amp;rdquo; Command Now, you can use the /previewtag command to view a tag&amp;rsquo;s contents without showing the entire server. Just use the command like the /tag command.
-Activity is No Longer Shown Instead of using an activity (ex: &amp;ldquo;Playing (random website)&amp;quot;), Wolf Tags will now use the description for linking to the bot website.</description>
+Activity is No Longer Shown Instead of using an activity (ex: &amp;ldquo;Playing (random website)&amp;rdquo;), Wolf Tags will now use the description for linking to the bot website.</description>
     </item>
     
   </channel>
